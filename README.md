@@ -1,6 +1,7 @@
 ### Hi there 
 <br>
-iam jeevitha👋
+iam jeevitha  shetty
+i waaaanna be aaa codder
 
 <!--
 **JeevithasHetty/jeevithaShetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
